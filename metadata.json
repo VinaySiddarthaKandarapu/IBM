@@ -1,0 +1,6 @@
+{
+  "name": "SecureLens - Enterprise AI Confidential Computing Deck",
+  "description": "SecureLens pitch deck and interactive confidential computing demonstration: Use AI on sensitive data without exposing it, powered by IBM Z & LinuxONE hardware security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
